@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+  <item><![CDATA[
+						{
+							"login":"vasia",
+							"password":"qweqwe1",
+							"name":"vasia@mail.com"
+						}
+					]]></item>
+  <item><![CDATA[
+						{
+							"login":"kolia",
+							"password":"qweqwe2",
+							"name":"kolia@mail.com"
+						}
+					]]></item>
+</items>
